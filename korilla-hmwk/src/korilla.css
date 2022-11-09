@@ -1,0 +1,32 @@
+body {
+  background-color: lightgreen;
+}
+
+h1{
+  color: orangered;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.receiptTitle {
+  color: brown;
+  border: solid orange;
+  border-radius: 50%;
+}
+
+.receiptList {
+  padding: 1.5em;
+}
+
+.item {
+  width: 310px;
+  margin: 0.5em auto;
+  border: solid blue;
+  font-size: 20px;
+ 
+}
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,53 @@
+body{
+    background-image: url('https://thumbs.gfycat.com/AccurateEcstaticKillifish-size_restricted.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding:.5em;
+    text-align: center;
+    }
+    .title{
+        text-align:center;
+        color: aqua;
+        text-decoration: underline;
+    }
+    .reviews{
+        text-align:center;
+        color: lightcoral;
+    }
+    .genre{
+        text-align:center;
+        color: yellow;
+    }
+    .pic{
+        text-align:center;
+        align-items: center;
+    }
+    .year{
+        text-align:center;
+        color: blue;
+    
+    }
+
+    .submitContainer{
+        width: 100%;
+        height: 8vh;
+        background-color: aqua;
+        padding-top: 2%;
+    
+    }
+    input{
+        text-align:center;
+        /* background-color: lightgray; */
+        color: green;
+        border: solid grey;
+        height: 4vh;
+        font-size: .9em;
+    }
+    #sub{
+        border: solid lightgoldenrodyellow;
+        border-radius: 10%;
+        background-color: yellow;
+        color: green;
+        font-weight: bold;
+        height: 5vh;
+    }
